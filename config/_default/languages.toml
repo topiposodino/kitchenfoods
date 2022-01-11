@@ -1,12 +1,12 @@
 [en]
-  title = "Food Favorito"
+  title = "Kitchen Foods"
   languageName = "English"
   weight = 1
   languagedir = "ltr"
   contentdir = "content/en"
 
 [id]
-  title = "Food Favorito"
+  title = "Kitchen Foods"
   languageName = "Indonesian"
   weight = 2
   languagedir = "ltr"

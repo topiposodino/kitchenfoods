@@ -25,7 +25,7 @@ header:
     paddingY: 0
     align: center
     title:
-      - Food Favorito
+      - Kitchen Foods
     subtitle:
       - The Complete collection of recipes from around the World
     titleColor: 

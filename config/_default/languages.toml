@@ -1,0 +1,13 @@
+[en]
+  title = "Food Favorito"
+  languageName = "English"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/en"
+
+[id]
+  title = "Food Favorito"
+  languageName = "Indonesian"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/id"

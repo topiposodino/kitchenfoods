@@ -1,0 +1,12 @@
+name = "Kitchen Foods"
+description = "The place for over 1000 popular recipes for your complete cooking guide"
+homepage = "https://kitchenfoods.netlify.app"
+license = "MIT"
+licenselink = "https://kitchenfoods.netlify.app"
+tags = ["accessible", "multilingual", "responsive", "blog", "search", "simple", "light", "dark", "mobile", "gallery", "technical", "fast", "presentation"]
+features = ["accessible", "multilingual", "responsive", "grid", "sass", "search", "subtheme", "gallery", "technical", "fast", "presentation"]
+min_version = "0.65.0"
+
+[author]
+  name = "Kitchen Foods"
+  homepage = "https://kitchenfoods.netlify.app"
